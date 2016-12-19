@@ -1,4 +1,4 @@
-# convert_srt_to_vtt
+# convert srt to vtt
 Javascript function that converts srt to vtt
 
 include jdg_srt2vtt.min.js
